@@ -1,0 +1,12 @@
+*.iml
+!.idea
+.idea/*
+docs/_site
+.DS_Store
+!/.idea/runConfigurations
+!/.idea/runConfigurations/*/
+
+.gradle
+!gradle-wrapper.jar
+build/
+out/
